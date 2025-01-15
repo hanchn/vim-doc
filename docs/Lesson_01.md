@@ -128,4 +128,3 @@ mkdir -p projects/myproject && touch projects/myproject/readme.md
 echo "Additional content" >> filename.txt
 ``` 
 
-需要哪种方法都可以根据需求灵活选择！
